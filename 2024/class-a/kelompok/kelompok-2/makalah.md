@@ -52,11 +52,11 @@ Materi wulan
 
 Perkembangan teknologi di era sekarang mengalami perubahan yang cukup besar, tidak hanya sebagai alat bantu manusia tetapi juga sebagai kekuatan yang mampu merubah cara manusia memahami realitas atau kenyataan. Dalam perspektif Homo Deus teknologi telah berkembang menjadi alat yang tidak hanya membantu aktivitas manusia, tetapi juga membantu cara mereka berpikir dan mengambil keputusan. Hal ini dapat di analisis melalui dua sudut pandang, yaitu teknologi sebagai mitos dan teknologi sebagai alat, yang memiliki perbedaan mendasar dalam hal posisi kendali dan tingkat kepercayaan manusia terhadap teknologi.
 
-Dalam sudut pandang sebagai mitos, teknologi j fugsvbskjlbvsf
+Dalam sudut pandang sebagai mitos, teknologi bisa diartikan sebagai kepercayaan baru yang selalu dianggap benar dan hampir mutlak oleh manusia tanpa memikirkan kebenaran aslinya. Kita bisa amati di kehidupan sehari-hari dalam penggunaan platform digital seperti TikTok atau Instagram. Algoritma yang ada pada platform tersebut terus merekomendasikan konten-konten dari perilaku pengguna, lalu membentuk preferensi dan kebiasaan dari pengguna itu sendiri. Pengguna cenderung akan mempercayai rekomendasi dari algoritma tersebut dan merasa bahwa teknologi lebih memahami dirinya sendiri.
 
-Dalam sudut pandang teknologi sebagai alat, teknologi jbaffejja
+Dalam sudut pandang teknologi sebagai alat, teknologi masih berkaitan dengan fungsi awalnya yaitu untuk memudahkan manusia dalam beraktivitas sehari-hari. Hal ini dapat dilihat ketika menggunakan aplikasi Google untuk mencari sebuah informasi dan memudahkan membuat tugas. Dalam kondisi ini, manusia masih menjadi pengambilan keputusan dan memegang kendali penuh atas teknologi dan teknologi hanya berperan sebagai pendukung.
 
-
+Perbedaan antara kedua sudut pandang tersebut bisa dilihat dari cara manusia menempatkan dirinya dalam berhubungan dengan teknologi. Ketika teknologi diposisikan sebagai alat, manusia memiliki kendali penuh dan berperan sebagai pengambil keputusan. Sedangkan pada teknologi sebagai mitos posisi tersebut mulai bergeser, dimana teknologi mulai memegang kendali dan memengaruhi cara manusia berpikir dan bertindak.
 
 ## BAB 3 Penutup
 **1. Kesimpulan**
