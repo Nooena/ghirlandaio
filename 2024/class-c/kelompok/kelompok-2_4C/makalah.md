@@ -91,24 +91,24 @@ Fenomena ini menimbulkan pergeseran cara manusia memahami dunia, dimana realitas
 
 Pengertian Mitos dalam konteks Sosial  Mitos dalam kajian teori sosial Mitos dalam Kajian teori sosial bukan berarti cerita bohong atau dongeng atau dongeng. Ronald Barthes dalam Mythologies (1957) mendefinisikan mitos sebagai sistem pemaknaan tingkat kedua, dimana sesuatu yang sebenarnya merupakan kontruksi sosial dan historis  tampak sosial dan historis tampak seolah olah alamiah, wajar, dan tidak perlu di pertanyakan. Mitos bekerja dengan cara menyembunyikan proses pembentukannnya. Sesuatu yang lahir dari kepentingan tertentu akhirnya diterima masyarakat sebagai kebenaran universal. Barthes menegaskan bahwa mitos mengubah sejarah menjadi sesuatu yng tampak seperti alam seolah hal tersebut memang sudah sewajarnya  terjadi.
 
-Awal mula Teknologi bisa disebut Mitos itu karenaa Teknologi kerap dinasikan sebagai simbol kemajuan peradaban solusi atas segala permasalahan manusia sesuatu yang netral dan objektif penanda seseorang modern dan relevan narasi narasi ini diterima begitu saja tanpa proses kritis. inilah yang menjadikan teknologi bukan sekedar alat, melainkan sebuah nitos modern. Baudirillard  dalam The Consumer Society (1970) menegaskan bahwa masyarakat konsumsi modern dibangun atas berbagai mitos, termasuk mitos tentang kemajuan teknologi sebagai mitos melalui tiga mekanisme utama :
+Awal mula teknologi bisa disebut Mitos itu karenaa teknologi kerap dinarasikan sebagai simbol kemajuan peradaban solusi atas segala permasalahan manusia sesuatu yang netral dan objektif penanda seseorang modern dan relevan narasi narasi ini diterima begitu saja tanpa proses kritis. inilah yang menjadikan teknologi bukan sekedar alat, melainkan sebuah mitos modern. Baudirillard  dalam The Consumer Society (1970) menegaskan bahwa masyarakat konsumsi modern dibangun atas berbagai mitos, termasuk mitos tentang kemajuan teknologi sebagai mitos melalui tiga mekanisme utama :
 
 1. Naturalisasi
 
-Teknologi dianggap sebagai sesuatu yang sudah seharusnya ada dan tidak bisa di hindari .  Perkembangan teknologi diterima seolah ia adalah hukum alam, bukan hasil dari pilihan sosial dan kepentingan tertentu. Contoh : wajar kalau semua orang sekarang punya smartphone.
+Teknologi dianggap sebagai sesuatu yang sudah seharusnya ada dan tidak bisa di hindari .  Perkembangan teknologi diterima seolah ia adalah hukum alam, bukan hasil dari pilihan sosial dan kepentingan tertentu. Contoh, "wajar kalau semua orang sekarang punya smartphone".
 
 2. Universalisasi
 
-Teknologi diklaim memberi manfaat yang sama bagi semua orang tanpa  memandang latar belakang sosial, ekonomi, atau budaya. Padahal akses dan dampak teknologi sangat tidak merata di masyarakat. contohnya: Sukses itu harus kaya dan mempunyai jabatan tinggi" seolah olah standar definisi sukses orang itu sama.
+Teknologi diklaim memberi manfaat yang sama bagi semua orang tanpa  memandang latar belakang sosial, ekonomi, atau budaya. Padahal akses dan dampak teknologi sangat tidak merata di masyarakat. contoh, "Sukses itu harus kaya dan mempunyai jabatan tinggi" seolah olah standar definisi sukses orang itu sama".
 
 3. Depolitisasi
 
-Proses menghilangkan konteks politik atau kekuasaan dari suatu isu, Sehingga terlihat netral dan tidak problematis. Contoh ketimpangan ekonomi di anggap sebagai "takdir" atau "nasib" padahal bisa jadi ada sistem atau kebijakan yang menyebabkannya. 
+Proses menghilangkan konteks politik atau kekuasaan dari suatu isu, Sehingga terlihat netral dan tidak problematis. Contoh, "ketimpangan ekonomi di anggap sebagai "takdir" atau "nasib" padahal bisa jadi ada sistem atau kebijakan yang menyebabkannya". 
 
 
 Dalam kajian teori sosial kontemporer, teknologi tidak lagi dipahami semata sebagai alat yang netral dan fungsional. Menurut pemikiran Jean Baudrillard, teknologi dalam masyarakat modern dapat bertransformasi menjadi mitos, yaitu kontruksi makna yang dipercaya secara luas tanpa selalu melalui proses kritis. 
 
-Dalam bukunya Simulacra and Simulation (1981), Baudrillard menjelaskan bawa masyarakat modern hidup dalam dunia yang dipenuhi oleh tanda, simbol, dan representasi yang sering kali menggantikan realitas itu sendiri. Dalam konteks ini, teknologi tida hanya berfungsi sebagai alat bantu, tetapi juga sebagai simbol kemajuan dan kebenaran. Akibatnya, masyarajat cenderung mempercayai teknologi sebagai sesuatu yang "pasti benar" dan "selalu membawa kemajuan". 
+Dalam bukunya Simulacra and Simulation (1981), Baudrillard menjelaskan bahwa masyarakat modern hidup dalam dunia yang dipenuhi oleh tanda, simbol, dan representasi yang sering kali menggantikan realitas itu sendiri. Dalam konteks ini, teknologi tidak hanya berfungsi sebagai alat bantu, tetapi juga sebagai simbol kemajuan dan kebenaran. Akibatnya, masyarakat cenderung mempercayai teknologi sebagai sesuatu yang "pasti benar" dan "selalu membawa kemajuan". 
 
 
 Selain itu, dalam The Consumer Society: Mythys and Structures (1970), Baudrillard menegaskan bahwa masyarakat modern hidup dalam dunia yang dipenuhi oleh tanda, simbol, dan representasi yang seringkali menggantikan realitas itu sendiri. dalam konteks ini, Teknologi tidak hanya berfungsi sebagai alat bantu, tetapi juga sebagai simbol kemajuan dan kebenaran. Akibatnya , Masyarakat cenderung mempercayai teknologi sebagai sesuatu yang "Pasti benar" dan "selalu membawa kemajuan".
