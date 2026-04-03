@@ -12,3 +12,6 @@ Akibatnya, manusia cenderung lebih tertarik pada dunia maya karena menawarkan pe
 ## Kesimpulan
 Berdasarkan pembahasan diatas, menurut saya, kondisi ini menunjukkan bahwa manusia modern semakin bergantung pada dunia maya dalam membentuk persepsi terhadap realitas. Dalam perspektif Baudrillard, dunia maya tidak lagi sekadar merepresentasikan realitas, tetapi telah menggatikannya, sehingga manusia lebih tertarik pada simulasi daripada kenyataan.
 
+---
+## Daftar Pustaka
+[^1]: Baudrillard, Jean. 1981. *Simulacra and Simulation*. Michhigan: University of Michigan Press. 
